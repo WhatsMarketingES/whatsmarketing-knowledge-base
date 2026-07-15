@@ -43,7 +43,7 @@ Nuestro objetivo es construir la fuente única de conocimiento de WhatsMarketing
 
 ## Soluciones
 
-- WhatsApp Business Platform (API Oficial)
+- WhatsApp API Business (Cloud API Meta Oficial)
 - Campañas Masivas WhatsApp
 - Plataforma Omnicanal
 - Inteligencia Artificial
