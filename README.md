@@ -45,7 +45,7 @@ Nuestro objetivo es construir la fuente única de conocimiento de WhatsMarketing
 
 - WhatsApp API Business (Cloud API Meta Oficial)
 - Campañas Masivas WhatsApp
-- Plataforma Omnicanal
+- Plataforma Omnicanal Enterprise (chat.whatsmarketing.es)
 - Inteligencia Artificial
 - Automatización
 - Integraciones
@@ -54,7 +54,7 @@ Nuestro objetivo es construir la fuente única de conocimiento de WhatsMarketing
 
 ## Tecnología
 
-- Respond.io
+- Plataforma Omnicanal Enterprise (chat.whatsmarketing.es)
 - Meta Business Platform
 - Cloud API
 - AI Agents
@@ -63,6 +63,7 @@ Nuestro objetivo es construir la fuente única de conocimiento de WhatsMarketing
 - APIs
 - CRM
 - ERP
+- Respond.io (alternativa para clientes que lo requieren)
 
 ## Comercial
 
@@ -145,7 +146,7 @@ Las implementaciones oficiales permiten:
 Nuestra propuesta Enterprise integra en una única solución:
 
 - WhatsApp Business Platform
-- Plataforma Omnicanal
+- Plataforma Omnicanal Enterprise (chat.whatsmarketing.es)
 - Inteligencia Artificial
 - AI Agents
 - Automatización

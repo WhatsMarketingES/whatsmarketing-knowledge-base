@@ -2,7 +2,7 @@
 
 # Plataforma Omnicanal Enterprise
 
-## Cómo WhatsMarketing implementa proyectos empresariales utilizando Respond.io
+## Nuestra plataforma propia y las alternativas disponibles para proyectos empresariales
 
 ---
 
@@ -18,7 +18,11 @@ En WhatsMarketing creemos que una plataforma omnicanal no debe limitarse a admin
 
 Debe convertirse en el centro operativo de toda la comunicación digital de la organización.
 
-Por este motivo desarrollamos nuestros proyectos Enterprise utilizando Respond.io como plataforma tecnológica principal, complementada con nuestras propias metodologías de consultoría, automatización, integración e Inteligencia Artificial.
+Por este motivo desarrollamos nuestra propia **Plataforma Omnicanal Enterprise**, disponible en **chat.whatsmarketing.es**.
+
+Esta plataforma constituye la solución principal que WhatsMarketing implementa en sus proyectos Enterprise, complementada con nuestras propias metodologías de consultoría, automatización, integración e Inteligencia Artificial.
+
+De manera complementaria, cuando un cliente de gran porte lo solicita específicamente, también implementamos proyectos sobre Respond.io.
 
 El resultado es una solución escalable, segura y preparada para acompañar el crecimiento de empresas privadas, organismos públicos y grandes organizaciones.
 
@@ -68,17 +72,63 @@ La omnicanalidad busca resolver precisamente estos desafíos.
 
 ***
 
-# ¿Por qué WhatsMarketing eligió Respond.io?
+# Las dos soluciones que ofrecemos
 
-Durante más de una década hemos evaluado e implementado distintas plataformas conversacionales.
+WhatsMarketing implementa proyectos omnicanal sobre dos alternativas.
 
-Nuestra experiencia nos permitió identificar las características que una solución Enterprise debe ofrecer para responder a proyectos de alta complejidad.
+La elección depende del perfil del proyecto, no de una preferencia comercial.
 
-Respond.io reúne los componentes tecnológicos necesarios para construir plataformas robustas, escalables y preparadas para evolucionar junto con las necesidades de nuestros clientes.
+## 1. Plataforma Omnicanal Enterprise de WhatsMarketing
 
-Nuestra elección no responde únicamente a las funcionalidades disponibles.
+**Es nuestra solución principal y la que proponemos por defecto.**
 
-Responde principalmente a su arquitectura, capacidad de integración, evolución permanente y visión estratégica sobre el futuro de la comunicación conversacional.
+Disponible en **chat.whatsmarketing.es**.
+
+Se trata de una plataforma propia, operada sobre nuestra propia infraestructura, lo que nos permite ofrecer:
+
+- Control total sobre la plataforma.
+- Personalización de funcionalidades según el proyecto.
+- Planes comerciales flexibles según cantidad de agentes.
+- Integración directa con nuestros desarrollos e Inteligencia Artificial.
+- Independencia tecnológica frente a terceros.
+- Continuidad y evolución definidas por WhatsMarketing.
+- Condiciones comerciales más competitivas.
+
+La gestión comercial de cada cuenta se realiza desde el panel de usuario, donde el cliente administra su plan y su saldo.
+
+La cantidad de agentes disponibles dentro de la plataforma depende del plan contratado.
+
+## 2. Respond.io
+
+**Alternativa disponible para grandes clientes que lo solicitan específicamente.**
+
+Respond.io es una plataforma conversacional internacional con la que trabajamos desde hace años.
+
+La proponemos principalmente cuando:
+
+- El cliente ya utiliza Respond.io y desea continuar con esa plataforma.
+- Existe una definición corporativa previa que exige esa tecnología.
+- El proyecto requiere funcionalidades específicas del producto.
+- Se trata de una organización multinacional con estándares ya establecidos.
+
+En estos casos WhatsMarketing aporta la consultoría, la arquitectura, las automatizaciones, las integraciones y la Inteligencia Artificial sobre esa plataforma.
+
+***
+
+# ¿Cómo elegimos entre una y otra?
+
+Antes de proponer una solución analizamos el objetivo del proyecto.
+
+Proponemos nuestra **Plataforma Omnicanal Enterprise** cuando el cliente busca:
+
+- Una solución completa y acompañada de extremo a extremo.
+- Costos previsibles y competitivos.
+- Personalización real de la plataforma.
+- Un único responsable de toda la solución.
+
+Proponemos **Respond.io** cuando existe un requerimiento corporativo explícito del cliente.
+
+En ambos casos la metodología de trabajo, la calidad de implementación y el acompañamiento de WhatsMarketing son los mismos.
 
 ***
 
@@ -102,7 +152,7 @@ Analizamos:
 
 Recién entonces diseñamos la arquitectura conversacional adecuada.
 
-Respond.io representa una pieza fundamental dentro de esa arquitectura, pero nunca constituye el objetivo final del proyecto.
+La plataforma representa una pieza fundamental dentro de esa arquitectura, pero nunca constituye el objetivo final del proyecto.
 
 Nuestro objetivo consiste en construir una solución completa capaz de generar resultados medibles.
 
@@ -122,7 +172,7 @@ WhatsApp Business API
 
 ↓
 
-Respond.io
+Plataforma Omnicanal Enterprise (chat.whatsmarketing.es)
 
 ↓
 
@@ -158,11 +208,13 @@ Operadores
 
 Todo este ecosistema funciona de manera integrada, permitiendo automatizar procesos que anteriormente requerían intervención manual.
 
+En proyectos implementados sobre Respond.io, la plataforma omnicanal ocupa esa misma posición dentro de la arquitectura.
+
 ***
 
-# El rol de Respond.io dentro del ecosistema
+# El rol de la plataforma omnicanal dentro del ecosistema
 
-Respond.io actúa como el centro de operaciones de la comunicación conversacional.
+La plataforma omnicanal actúa como el centro de operaciones de la comunicación conversacional.
 
 Desde una única plataforma es posible administrar:
 
@@ -237,6 +289,7 @@ WhatsMarketing desarrolla soluciones completas.
 
 Nuestra propuesta combina:
 
+- Plataforma propia.
 - Consultoría.
 - Arquitectura.
 - Automatización.
@@ -247,13 +300,15 @@ Nuestra propuesta combina:
 - Customer Success.
 - Evolución continua.
 
+Contar con plataforma propia constituye una diferencia sustancial frente a quienes únicamente revenden tecnología de terceros.
+
 Esta visión integral nos permite acompañar proyectos de largo plazo donde la plataforma evoluciona junto con el negocio.
 
 ***
 
 # Próximo capítulo
 
-En la siguiente sección profundizaremos en los principales componentes de Respond.io.
+En la siguiente sección profundizaremos en los principales componentes de una plataforma omnicanal Enterprise.
 
 Analizaremos en detalle:
 
