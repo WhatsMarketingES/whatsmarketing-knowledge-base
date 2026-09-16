@@ -112,7 +112,7 @@ Cloud API de Meta
 
 ↓
 
-Respond.io
+Plataforma Omnicanal WhatsMarketing
 
 ↓
 

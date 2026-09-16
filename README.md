@@ -18,7 +18,7 @@ Esta documentación será utilizada por:
 - ChatGPT
 - Gemini
 - Claude
-- Respond.io AI
+- BOT IA Casi Humano y agentes IA de WhatsMarketing
 - n8n AI Agents
 - Equipo Comercial
 - Customer Success
@@ -54,7 +54,7 @@ Nuestro objetivo es construir la fuente única de conocimiento de WhatsMarketing
 
 ## Tecnología
 
-- Respond.io
+- Plataforma Omnicanal WhatsMarketing (propia)
 - Meta Business Platform
 - Cloud API
 - AI Agents
@@ -201,24 +201,28 @@ Antes de recomendar una solución, analizamos el objetivo del proyecto para dete
 
 ---
 
-# Próximos capítulos
+# Capítulos del repositorio
 
-Este repositorio se encuentra en permanente evolución.
+Este repositorio se encuentra en permanente evolución. Capítulos disponibles:
 
-En las próximas versiones incorporaremos:
+- Capítulo 1 (este documento): Empresa y servicios.
+- Capítulo 2: `docs/02_soluciones_whatsapp.md` — Las dos líneas de solución: API Oficial y Campañas Masivas.
+- Capítulo 3: `docs/03_plataforma_omnicanal.md` — Plataforma Omnicanal WhatsMarketing (propia).
+- Capítulo 4: `docs/04_meta_business_api.md` — WhatsApp Business Platform (API Oficial de Meta) y el cambio de octubre de 2026.
+- Capítulo 5: `docs/05_bot_ia_y_agentes.md` — BOT IA Casi Humano y agentes IA.
+- Capítulo 6: `docs/06_campanas_automatizaciones_integraciones.md` — Campañas, automatizaciones e integraciones.
+- Capítulo 7: `docs/07_planes_y_precios.md` — Planes y precios públicos.
+- Capítulo 8: `docs/08_soluciones_por_sector.md` — Soluciones por sector.
+- Capítulo 9: `docs/09_casos_de_exito_y_clientes.md` — Casos de éxito y clientes.
+- Capítulo 10: `docs/10_preguntas_frecuentes_y_objeciones.md` — Preguntas frecuentes y objeciones comerciales.
+- Capítulo 11: `docs/11_contacto_demo_y_alta.md` — Contacto, demo en vivo y alta.
 
-- Respond.io
-- Meta Business Platform
-- Octubre 2026
-- Inteligencia Artificial
-- Automatización
-- Integraciones
-- Casos de éxito
-- Preguntas frecuentes
-- Objeciones comerciales
-- Comparativas
-- Playbook Comercial
-- Gobierno y Licitaciones
+En próximas versiones incorporaremos:
+
+- Comparativas.
+- Playbook Comercial.
+- Gobierno y Licitaciones.
+- Arquitectura técnica e integraciones avanzadas.
 
 ---
 
@@ -235,7 +239,7 @@ En las próximas versiones incorporaremos:
 
 ## Versión 2.0
 
-- Respond.io
+- Plataforma Omnicanal WhatsMarketing
 - Automatización
 - FAQ
 - Objeciones
